@@ -1,4 +1,4 @@
-# NovaLunium Selenium 4 Hybrid Test Framework
+# NovaLunium - Selenium 4 Hybrid Test Framework
 
 Multi module mono-repo for NovaLunium framework
 
