@@ -1,0 +1,65 @@
+######################
+# OSX
+######################
+.DS_Store
+.svn
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+######################
+# Eclipse
+######################
+
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+test-output
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+
+
+######################
+# Intellij
+######################
+.settings
+.idea
+*.iml
+*.iws
+.factorypath
+
+######################
+# Maven
+######################
+
+log/
+.elasticbeanstalk/
+
+######################
+# JMeter
+######################
+
+load-test/*.log
+jmeter.log
+
+######################
+# Tests
+######################
+
+failed_scenarios.txt
